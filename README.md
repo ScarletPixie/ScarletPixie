@@ -4,7 +4,7 @@
 </div>
 
 <section align=center>
-  <h3> Skills: </h3>
+  <h3 align=center > Skills: </h3>
   <!-- web -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width=50px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width=50px>
