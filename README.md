@@ -1,7 +1,7 @@
 <!-- introduction section -->
-<header align=center>
+<div align=center>
   ## Hello there, I'm 🧚 Akino 🧚
-</header>
+</div>
 ### Skills:
 <div align=center>
   <!-- web -->
