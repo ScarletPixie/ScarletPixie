@@ -2,6 +2,8 @@
 
 <!--Status Section-->
 ### My stats:
-<div align=center>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=scarletpixie&theme=dark)](https://git.io/streak-stats)
+<div style="text-align: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=scarletpixie&theme=dark" alt="GitHub Streak">
+  </a>
 </div>
