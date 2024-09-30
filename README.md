@@ -1,4 +1,6 @@
+<!-- introduction section -->
 ## Hello there, I'm 🧚 Akino 🧚
+<hr>
 
 <!--Status Section-->
 ### My stats:
