@@ -1,6 +1,9 @@
 <!-- introduction section -->
 ## Hello there, I'm 🧚 Akino 🧚
-<hr>
+### Skills:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
+</div>
 
 <!--Status Section-->
 ### My stats:
