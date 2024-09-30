@@ -24,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width=50px>
   
   <!-- tools -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width=50px>
 </div>
 
 <!--Status Section-->
