@@ -2,7 +2,7 @@
 ## Hello there, I'm 🧚 Akino 🧚
 ### Skills:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width=50px>
 </div>
 
 <!--Status Section-->
