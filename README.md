@@ -24,6 +24,6 @@
 ### My stats:
 <div align=center>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=scarletpixie&theme=ayu-mirage&border_radius=4.5&border=0a2c45&stroke=0a2c45" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=scarletpixie&theme=ayu-mirage&border_radius=4.5&border=0a2c45&stroke=40a1e6" alt="GitHub Streak">
   </a>
 </div>
