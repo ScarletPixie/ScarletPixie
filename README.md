@@ -7,7 +7,6 @@
 
 <div align=center>
   <!-- web -->
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width=50px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width=50px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width=50px>
@@ -23,6 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width=50px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C plus plus" width=50px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width=50px>
+  
+  <!-- tools -->
 </div>
 
 <!--Status Section-->
