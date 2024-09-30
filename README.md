@@ -2,7 +2,9 @@
 <div align=center>
   ## Hello there, I'm 🧚 Akino 🧚
 </div>
+
 ### Skills:
+
 <div align=center>
   <!-- web -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width=50px>
