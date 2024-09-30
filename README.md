@@ -1,6 +1,6 @@
 <!-- introduction section -->
 <div align=center>
-  <h1> Hello there, I'm 🧚 Akino 🧚 </h1>
+  <h1> Hello there, I'm 🧚 <font color="#40a1e6">Akino</font> 🧚 </h1>
 </div>
 
 ### My skills:
