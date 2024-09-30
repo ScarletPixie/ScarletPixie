@@ -2,4 +2,6 @@
 
 <!--Status Section-->
 ### My stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=scarletpixie&theme=dark)](https://git.io/streak-stats)
+<div style="text-align: center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=scarletpixie&theme=dark)](https://git.io/streak-stats)
+<div>
