@@ -1,8 +1,13 @@
 <!-- introduction section -->
-<div align=center>
-  <h1> Hello there, I'm 🧚 Akino 🧚 </h1>
+<div align="center">
+  <h1>Hello there, I'm ScarletPixie (aka Paulo Henrique)!</h1>
+  <p>
+    I'm currently studying Software Engineering at 42 | Rio. While most of my projects are web-based,<br>
+    I don't limit myself to any specific area. I'm open to working on anything — from embedded systems<br>
+    to sophisticated tools, or even game engines. I just enjoy building cool stuff and solving problems!<br><br>
+    I deeply value correctness and quality in everything I work on, and I'm always striving to learn and improve.
+  </p>
 </div>
-
 ### My skills:
 
 <div align=center>
@@ -17,6 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width=50px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width=50px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width=50px>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width=50px>
+
 
   <!-- general use programming languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width=50px>
@@ -31,6 +38,6 @@
 ### My stats:
 <div align=center>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=scarletpixie&theme=ayu-mirage&border_radius=4.5&border=0a2c45&stroke=40a1e6" alt="GitHub Streak">
-  </a>
+    <img src="https://streak-stats.demolab.com/?user=scarletpixie&theme=ayu-mirage&border_radius=4.5&border=0a2c45&stroke=40a1e6" alt="GitHub Streak">0,
+;F.  </a>
 </div>
