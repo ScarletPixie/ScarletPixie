@@ -8,6 +8,7 @@
     I deeply value correctness and quality in everything I work on, and I'm always striving to learn and improve.
   </p>
 </div>
+
 ### My skills:
 
 <div align=center>
